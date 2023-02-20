@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestMusQue</string>
+
+    <string name="btn_answer">option</string>
+    <string name="question_pic1">Question</string>
+
+</resources>
