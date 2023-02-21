@@ -29,14 +29,14 @@
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="293dp">
 
-
     </TextView>
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/showimage"
         android:layout_width="401dp"
         android:layout_height="162dp"
-        android:text ="@string/question_pic1"
+        android:text ="Guess the Interval"
+        android:textsize = "32sp"
         app:srcCompat="@drawable/interval"
         tools:layout_editor_absoluteX="7dp"
         tools:layout_editor_absoluteY="58dp" />
